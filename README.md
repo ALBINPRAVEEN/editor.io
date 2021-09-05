@@ -16,11 +16,6 @@
 - Autoclose of tags and brackets
 - Live Preview
 
-## Online Markdown editor for generating Readme Files
-
-<div align="center">
-  <img alt="Demo" src="./src/Assets/markdown.gif"/>
-</div>
 
 ## Features
 
