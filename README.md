@@ -1,7 +1,7 @@
 <div align="center">
 
 # Editor.io
-## https://editorio-production.up.railway.app/web
+## https://editorio-production.up.railway.app
 
 </div>
 
